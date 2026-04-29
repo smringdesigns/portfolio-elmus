@@ -1,4 +1,4 @@
-# 💼 Portfolio – Ing. Stivenson Mussa - elmus
+# 💼 Portafolio – Ing. Stivenson Mussa - elmus
 
 Portafolio profesional como **Frontend Developer**, actualmente en transición y formación como **FullStack Developer**.
 
